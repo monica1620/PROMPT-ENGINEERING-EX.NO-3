@@ -44,8 +44,7 @@ Procedure:
 
 
 # OUTPUT: 
-[EXP3_Prompt_Engineering.docx](https://github.com/user-attachments/files/25566702/EXP3_Prompt_Engineering.docx)
-
+(uploaded on top)
 
 
 # RESULT: The various types of Prompts are executed successfully with generated the report.
